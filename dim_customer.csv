@@ -1,0 +1,190 @@
+customer_code,customer,market,platform,channel
+80001019,Neptune,China,Brick & Mortar,Distributor
+70003182,Qlik e Store,Indonesia,E-Commerce,Direct
+70003181,Qlik Exclusive,Indonesia,Brick & Mortar,Direct
+70007198,Qlik Exclusive,South Korea,Brick & Mortar,Direct
+70007199,Qlik e Store,South Korea,E-Commerce,Direct
+70019204,Qlik e Store,Sweden,E-Commerce,Direct
+70005163,Qlik e Store,Pakistan,E-Commerce,Direct
+70010047,Qlik Exclusive,Bangladesh,Brick & Mortar,Direct
+70010048,Qlik e Store,Bangladesh,E-Commerce,Direct
+80007195,Sage,South Korea,Brick & Mortar,Distributor
+80007196,Leader,South Korea,Brick & Mortar,Distributor
+80006154,Synthetic,Philiphines,Brick & Mortar,Distributor
+80006155,Novus,Philiphines,Brick & Mortar,Distributor
+70006158,Qlik e Store,Philiphines,E-Commerce,Direct
+70006157,Qlik Exclusive,Philiphines,Brick & Mortar,Direct
+70008169,Qlik Exclusive,Australia,Brick & Mortar,Direct
+70008170,Qlik e Store,Australia,E-Commerce,Direct
+70009134,Qlik e Store,Newzealand,E-Commerce,Direct
+70020104,Qlik e Store,Austria,E-Commerce,Direct
+70009133,Qlik Exclusive,Newzealand,Brick & Mortar,Direct
+70016178,Qlik e Store,Poland,E-Commerce,Direct
+70016177,Qlik Exclusive,Poland,Brick & Mortar,Direct
+70015151,Qlik Exclusive,Norway,Brick & Mortar,Direct
+70015152,Qlik e Store,Norway,E-Commerce,Direct
+70014143,Qlik e Store,Netherlands,E-Commerce,Direct
+70014142,Qlik Exclusive,Netherlands,Brick & Mortar,Direct
+70004069,Qlik Exclusive,Japan,Brick & Mortar,Direct
+70011194,Qlik e Store,France,E-Commerce,Direct
+70011193,Qlik Exclusive,France,Brick & Mortar,Direct
+70004070,Qlik e Store,Japan,E-Commerce,Direct
+70023031,Qlik Exclusive,Canada,Brick & Mortar,Direct
+70012042,Qlik Exclusive,Germany,Brick & Mortar,Direct
+70023032,Qlik e Store,Canada,E-Commerce,Direct
+70012043,Qlik e Store,Germany,E-Commerce,Direct
+70021096,Qlik e Store,United Kingdom,E-Commerce,Direct
+70018115,Qlik e Store,Spain,E-Commerce,Direct
+70013125,Qlik Exclusive,Italy,Brick & Mortar,Direct
+70013126,Qlik e Store,Italy,E-Commerce,Direct
+70017060,Qlik e Store,Portugal,E-Commerce,Direct
+70022084,Qlik Exclusive,USA,Brick & Mortar,Direct
+70022085,Qlik e Store,USA,E-Commerce,Direct
+70002018,Qlik e Store,India,E-Commerce,Direct
+70002017,Qlik Exclusive,India,Brick & Mortar,Direct
+90001020,Zone,China,Brick & Mortar,Retailer
+90001021,Taobao,China,E-Commerce,Retailer
+90003180,Amazon,Indonesia,E-Commerce,Retailer
+90003179,Acclaimed Stores,Indonesia,Brick & Mortar,Retailer
+90019201,Expert,Sweden,Brick & Mortar,Retailer
+90019202,Argos (Sainsbury's),Sweden,Brick & Mortar,Retailer
+90019203,Amazon,Sweden,E-Commerce,Retailer
+90019200,Sorefoz,Sweden,Brick & Mortar,Retailer
+90005161,Zone,Pakistan,Brick & Mortar,Retailer
+90005160,Nomad Stores,Pakistan,Brick & Mortar,Retailer
+90005159,Expression,Pakistan,Brick & Mortar,Retailer
+90005162,Amazon,Pakistan,E-Commerce,Retailer
+90007197,Amazon,South Korea,E-Commerce,Retailer
+90010045,Control,Bangladesh,Brick & Mortar,Retailer
+90010046,Amazon,Bangladesh,E-Commerce,Retailer
+90010044,Surface Stores,Bangladesh,Brick & Mortar,Retailer
+90006153,Insight,Philiphines,Brick & Mortar,Retailer
+90006156,Amazon,Philiphines,E-Commerce,Retailer
+90008165,Forward Stores,Australia,Brick & Mortar,Retailer
+90008164,Digimarket,Australia,Brick & Mortar,Retailer
+90008167,Electricalsocity,Australia,Brick & Mortar,Retailer
+90008166,Sound,Australia,Brick & Mortar,Retailer
+90008168,Amazon,Australia,E-Commerce,Retailer
+90009132,Amazon,Newzealand,E-Commerce,Retailer
+90009129,Leader,Newzealand,Brick & Mortar,Retailer
+90009130,Logic Stores,Newzealand,Brick & Mortar,Retailer
+90020103,Amazon,Austria,E-Commerce,Retailer
+90009128,Propel,Newzealand,Brick & Mortar,Retailer
+90009127,Epic Stores,Newzealand,Brick & Mortar,Retailer
+90020102,Fnac-Darty,Austria,Brick & Mortar,Retailer
+90020100,Nova,Austria,Brick & Mortar,Retailer
+90020101,Euronics,Austria,Brick & Mortar,Retailer
+90020097,Atlas Stores,Austria,Brick & Mortar,Retailer
+90020098,Electricalsquipo Stores,Austria,Brick & Mortar,Retailer
+90020099,Integration Stores,Austria,Brick & Mortar,Retailer
+90016173,Expert,Poland,Brick & Mortar,Retailer
+90016171,Electricalsara Stores,Poland,Brick & Mortar,Retailer
+90016176,Amazon,Poland,E-Commerce,Retailer
+90016175,Argos (Sainsbury's),Poland,Brick & Mortar,Retailer
+90016174,Currys (Dixons Carphone),Poland,Brick & Mortar,Retailer
+90014136,Reliance Digital,Netherlands,Brick & Mortar,Retailer
+90014135,Electricalslance Stores,Netherlands,Brick & Mortar,Retailer
+90015147,Chiptec,Norway,Brick & Mortar,Retailer
+90015148,Boulanger,Norway,Brick & Mortar,Retailer
+90015145,Synthetic,Norway,Brick & Mortar,Retailer
+90015150,Amazon,Norway,E-Commerce,Retailer
+90015149,UniEuro,Norway,Brick & Mortar,Retailer
+90014140,Radio Popular,Netherlands,Brick & Mortar,Retailer
+90014139,Elkjøp,Netherlands,Brick & Mortar,Retailer
+90015144,Sound,Norway,Brick & Mortar,Retailer
+90014141,Amazon,Netherlands,E-Commerce,Retailer
+90011189,UniEuro,France,Brick & Mortar,Retailer
+90011188,Elkjøp,France,Brick & Mortar,Retailer
+90011191,Sorefoz,France,Brick & Mortar,Retailer
+90011185,Epic Stores,France,Brick & Mortar,Retailer
+90004065,Neptune,Japan,Brick & Mortar,Retailer
+90011187,Chip 7,France,Brick & Mortar,Retailer
+90011186,Elite,France,Brick & Mortar,Retailer
+90011192,Amazon,France,E-Commerce,Retailer
+90004066,Surface Stores,Japan,Brick & Mortar,Retailer
+90004064,All-Out,Japan,Brick & Mortar,Retailer
+90004067,Amazon,Japan,E-Commerce,Retailer
+90004068,Amazon,Japan,E-Commerce,Retailer
+90004061,Info Stores,Japan,Brick & Mortar,Retailer
+90004063,Electricalsbea Stores,Japan,Brick & Mortar,Retailer
+90004062,Flawless Stores,Japan,Brick & Mortar,Retailer
+90023028,walmart,Canada,Brick & Mortar,Retailer
+90023027,Costco,Canada,Brick & Mortar,Retailer
+90023029,Staples,Canada,Brick & Mortar,Retailer
+90023030,Amazon,Canada,E-Commerce,Retailer
+90023026,Relief,Canada,Brick & Mortar,Retailer
+90023022,Nomad Stores,Canada,Brick & Mortar,Retailer
+90012038,Expert,Germany,Brick & Mortar,Retailer
+90023023,Amazon,Canada,E-Commerce,Retailer
+90023025,Premium Stores,Canada,Brick & Mortar,Retailer
+90023024,Sage,Canada,Brick & Mortar,Retailer
+90012041,Amazon,Germany,E-Commerce,Retailer
+90012037,Saturn,Germany,Brick & Mortar,Retailer
+90012040,Fnac-Darty,Germany,Brick & Mortar,Retailer
+90012039,Currys (Dixons Carphone),Germany,Brick & Mortar,Retailer
+90012033,Digimarket,Germany,Brick & Mortar,Retailer
+90012034,Otto,Germany,Brick & Mortar,Retailer
+90012035,Notebillig,Germany,Brick & Mortar,Retailer
+90021092,UniEuro,United Kingdom,Brick & Mortar,Retailer
+90021091,Expert,United Kingdom,Brick & Mortar,Retailer
+90021094,Coolblue,United Kingdom,Brick & Mortar,Retailer
+90021093,Chip 7,United Kingdom,Brick & Mortar,Retailer
+90021088,Electricalslytical,United Kingdom,Brick & Mortar,Retailer
+90021090,Radio Popular,United Kingdom,Brick & Mortar,Retailer
+90021089,Atlas Stores,United Kingdom,Brick & Mortar,Retailer
+90018108,Relief,Spain,Brick & Mortar,Retailer
+90018107,Elite,Spain,Brick & Mortar,Retailer
+90018110,Boulanger,Spain,Brick & Mortar,Retailer
+90018109,Chiptec,Spain,Brick & Mortar,Retailer
+90021095,Amazon,United Kingdom,E-Commerce,Retailer
+90018112,Euronics,Spain,Brick & Mortar,Retailer
+90018105,Integration Stores,Spain,Brick & Mortar,Retailer
+90021087,Logic Stores,United Kingdom,Brick & Mortar,Retailer
+90013118,Fnac-Darty,Italy,Brick & Mortar,Retailer
+90013119,Argos (Sainsbury's),Italy,Brick & Mortar,Retailer
+90013120,Coolblue,Italy,Brick & Mortar,Retailer
+90013117,Euronics,Italy,Brick & Mortar,Retailer
+90013121,Boulanger,Italy,Brick & Mortar,Retailer
+90018106,Flipkart,Spain,E-Commerce,Retailer
+90013122,Radio Popular,Italy,Brick & Mortar,Retailer
+90013123,Expert,Italy,Brick & Mortar,Retailer
+90013124,Amazon,Italy,E-Commerce,Retailer
+90018114,Amazon,Spain,E-Commerce,Retailer
+90021086,Electricalsquipo Stores,United Kingdom,Brick & Mortar,Retailer
+90018113,Elkjøp,Spain,Brick & Mortar,Retailer
+90017057,Euronics,Portugal,Brick & Mortar,Retailer
+90017059,Amazon,Portugal,E-Commerce,Retailer
+90017056,Sorefoz,Portugal,Brick & Mortar,Retailer
+90017049,Premium Stores,Portugal,Brick & Mortar,Retailer
+90017051,Forward Stores,Portugal,Brick & Mortar,Retailer
+90017050,Electricalsara Stores,Portugal,Brick & Mortar,Retailer
+90017055,Electricalslance Stores,Portugal,Brick & Mortar,Retailer
+90017054,Flawless Stores,Portugal,Brick & Mortar,Retailer
+90017053,Info Stores,Portugal,Brick & Mortar,Retailer
+90022073,Control,USA,Brick & Mortar,Retailer
+90022071,Acclaimed Stores,USA,Brick & Mortar,Retailer
+90022074,Flipkart,USA,E-Commerce,Retailer
+90022077,Radio Shack,USA,Brick & Mortar,Retailer
+90022075,BestBuy,USA,Brick & Mortar,Retailer
+90022079,walmart,USA,Brick & Mortar,Retailer
+90022078,Costco,USA,Brick & Mortar,Retailer
+90022083,Ebay,USA,E-Commerce,Retailer
+90022080,Staples,USA,Brick & Mortar,Retailer
+90022081,Amazon,USA,E-Commerce,Retailer
+90022082,Amazon,USA,E-Commerce,Retailer
+90002007,Girias,India,Brick & Mortar,Retailer
+90002006,Viveks,India,Brick & Mortar,Retailer
+90002009,Flipkart,India,E-Commerce,Retailer
+90002008,Amazon,India,E-Commerce,Retailer
+90002005,Lotus,India,Brick & Mortar,Retailer
+90002002,Croma,India,Brick & Mortar,Retailer
+90002001,Reliance Digital,India,Brick & Mortar,Retailer
+90002004,Vijay Sales,India,Brick & Mortar,Retailer
+90002003,Ezone,India,Brick & Mortar,Retailer
+90002016,Amazon,India,E-Commerce,Retailer
+90002015,Propel,India,Brick & Mortar,Retailer
+90002014,Expression,India,Brick & Mortar,Retailer
+90002011,Qlik Exclusive,India,Brick & Mortar,Retailer
+90002010,Ebay,India,E-Commerce,Retailer
+90002013,Electricalslytical,India,Brick & Mortar,Retailer
+90002012,Electricalsocity,India,Brick & Mortar,Retailer
